@@ -2,6 +2,7 @@
   "name": "aladin-p13-react-library",
   "version": "0.1.1",
   "type": "module",
+  "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
