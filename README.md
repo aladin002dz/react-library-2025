@@ -4,6 +4,34 @@ A modern, customizable button component for React applications.
 
 ## Creation
 
+#### package.json
+
+```json
+{
+  "name": "aladin-p13-react-library", // Replace with your "unique" library name
+  "version": "0.1.0", // Replace with your library version, "increment each time you modify the library"
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    ...
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    ...
+  }
+}
+```
+
 #### Publishing
 
 ```bash
