@@ -34,9 +34,24 @@ A modern, customizable button component for React applications.
 
 #### Publishing
 
+##### Create an account on [npmjs.com](https://www.npmjs.com/) 
+##### On the terminal 
+
+login using
+
 ```bash
 npm login
+```
+
+Build your library using 
+
+```bash
 npm run build
+```
+
+Publish to npm using 
+
+```bash
 npm publish
 ```
 
